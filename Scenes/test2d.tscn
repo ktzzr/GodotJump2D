@@ -3,3 +3,5 @@
 [node name="Scene" type="Node2D"]
 
 [node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="Player" type="Sprite2D" parent="."]
